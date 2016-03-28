@@ -7,7 +7,7 @@ year = 2016
 
 
 def rmd(x, y):
-    ''' calculate remainder'''
+    """ calculate remainder """
     return x % y
 
 
