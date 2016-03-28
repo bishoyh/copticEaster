@@ -1,5 +1,5 @@
 #Calculate Coptic Easter based on information from http://www.copticchurch.net/topics/coptic_calendar/ortheast.html
-
+# Contains bugs after year 2068
 from datetime import *
 from datetime import timedelta
 
