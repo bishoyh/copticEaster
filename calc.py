@@ -27,6 +27,6 @@ def calc_coptic_easter(year):
     end_date = date_1 + timedelta(days=RC + 13)  # add 13 days to compensate for julian calendar
     print "Year is ", year, " And easter is on ", end_date
 
-
+# Test loop
 for x in range(2016, 2100):
     calc_coptic_easter(x)
